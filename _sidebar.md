@@ -1,4 +1,4 @@
 <!-- docs/_sidebar.md -->
-- Hello
-    - [Home](/)
+- Index
+    - [README](/)
     - [流行音乐曲目](流行音乐曲目.md)
